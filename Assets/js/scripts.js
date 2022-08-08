@@ -29,7 +29,7 @@ const loop = setInterval(() => {
         clouds.style.right = `${cloudPosition}px`;
 
         mario.src= './Assets/images/game-over.png'
-        mario.style.width = '75px';
+        mario.style.width = '3%';
         mario.style.marginLeft = '50px';
         mario.style.position = 'absolute';
 
